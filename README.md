@@ -2,7 +2,7 @@
 
 An Android game built with Unity 3D.
 
-🎮 **Watch Gameplay Demo**: [YouTube Video](https://youtu.be/v8vkIbbKNUc)
+🎮 **Watch Gameplay Demo**: [https://youtu.be/v8vkIbbKNUc]
 
 ## 📱 Overview
 
