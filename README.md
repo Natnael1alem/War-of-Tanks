@@ -3,6 +3,7 @@
 An Android game built with Unity 3D.
 
 🎮 **Watch Gameplay Demo**: [https://youtu.be/v8vkIbbKNUc]
+
 🎮 **Install the apk file and check out the game**
 
 ## 📱 Overview
@@ -15,7 +16,9 @@ An Android game built with Unity 3D.
 
 - 🎮 **Dual Joystick Controls**  
   - Left joystick for tank movement  
-  - Right joystick for aiming and shooting  
+  - Right joystick for aiming and shooting
+ 
+- **Top Down Perspective Camera**
 
 - 🤖 **Enemy AI**  
   - Enemy behavior  
